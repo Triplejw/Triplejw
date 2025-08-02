@@ -33,10 +33,16 @@ I build things that bridge **hardware-level logic** with **software magic**, fro
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Triplejw&show_icons=true&theme=tokyonight" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triplejw&layout=compact&theme=tokyonight&hide_title=true" width="42%">
+</p>
+
+### 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triplejw&layout=compact&theme=tokyonight" width="42%">
 </p>
 
 ---
@@ -47,4 +53,4 @@ I build things that bridge **hardware-level logic** with **software magic**, fro
 
 ---
 
-> “Stay curious. Stay building.” ⚡  
+> “Stay curious. Stay building.” ⚡
