@@ -5,9 +5,9 @@ I build things that bridge **hardware-level logic** with **software magic**, fro
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I Worked On
 - 🔊 **PulseMix** – A desktop audio mixer & visualizer in C++ (GTK, PortAudio)
-- 🧮 **Web Credit Calculator** – Flask-based tool to compute academic credits
+- 🧮 **Credit Calculator (Desktop)** – Simple GTK-based credit calculator in C
 - 🎥 **License Plate Detection** – YOLOv7 + Roboflow + Ultralytics in action
 - 📖 **Holy Bible App** – Cross-platform mobile app built with Expo Go
 
@@ -27,16 +27,16 @@ I build things that bridge **hardware-level logic** with **software magic**, fro
 
 ## 📌 Featured Projects
 - 🎧 [PulseMix - Audio Mixer](https://github.com/Triplejw/PulseMix)
-- 🧮 [Web Credit Calculator](https://github.com/Triplejw/WebCreditCalc)
-- 🚘 [License Plate Detection](https://github.com/Triplejw/licenseplatedetection)
-- 📖 [Holy Bible App](https://github.com/Triplejw/HolyBibleApp)
+- 🧮 [Credit Calculator - GTK](https://github.com/Triplejw/credit-calculator-gtk)
+- 🚘 [License Plate Detection](https://github.com/Triplejw/LicensePlate-Detection-YOLOv8)
+- 📖 [Holy Bible App](https://github.com/Triplejw/BibleApp-ExpoGo)
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Triplejw&show_icons=true&theme=tokyonight" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triplejw&layout=compact&theme=tokyonight" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triplejw&layout=compact&theme=tokyonight&hide_title=true" width="42%">
 </p>
 
 ---
