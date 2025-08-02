@@ -1,30 +1,50 @@
-# Hey there! 👋  
-I'm Joshua JJ Wonder — an ECE final-year student passionate about building intelligent systems that blend AI, racing, and real-time data.
+# 👋 Hey there, I’m Joshua JJ Wonder
 
-🚀 Currently:
-- Building an AI Co-Driver for sim racing 🏎️
-- Exploring YOLOv7 & OpenCV for object detection
-- Learning full-stack web dev & TensorFlow basics
-
-🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![YOLOv7](https://img.shields.io/badge/-YOLOv7-333?style=flat&logo=opencv)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
-![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
-
-📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/joshuajjwonder)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Triplejw)
+🎓 Final-year ECE student | 💻 Passionate Developer | 🧠 AI + Systems Enthusiast  
+I build things that bridge **hardware-level logic** with **software magic**, from C-based GTK apps to YOLO-powered AI systems.
 
 ---
 
-🧠 *"Simplicity is the ultimate sophistication." – Leonardo da Vinci*
+## 🚀 What I’m Working On
+- 🔊 **PulseMix** – A desktop audio mixer & visualizer in C++ (GTK, PortAudio)
+- 🧮 **Web Credit Calculator** – Flask-based tool to compute academic credits
+- 🎥 **License Plate Detection** – YOLOv7 + Roboflow + Ultralytics in action
+- 📖 **Holy Bible App** – Cross-platform mobile app built with Expo Go
+
+---
+
+## 🛠 Tech Stack
+![C](https://img.shields.io/badge/C-blue.svg?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv7-%23FFAE42.svg?logo=openai&logoColor=white)
+![GTK](https://img.shields.io/badge/GTK-8A2BE2.svg?logo=gnome&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+- 🎧 [PulseMix - Audio Mixer](https://github.com/Triplejw/PulseMix)
+- 🧮 [Web Credit Calculator](https://github.com/Triplejw/WebCreditCalc)
+- 🚘 [License Plate Detection](https://github.com/Triplejw/licenseplatedetection)
+- 📖 [Holy Bible App](https://github.com/Triplejw/HolyBibleApp)
+
+---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Triplejw&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Triplejw&show_icons=true&theme=tokyonight" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Triplejw&layout=compact&theme=tokyonight" width="47%">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Triplejw&layout=compact&theme=radical)
+---
+
+## 📬 Reach Out
+- 🔗 [LinkedIn](https://linkedin.com/in/joshuajjwonder)
+- 📫 Email: `wonderjj2017@gmail.com`
+
+---
+
+> “Stay curious. Stay building.” ⚡  
